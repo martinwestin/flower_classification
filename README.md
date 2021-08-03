@@ -3,7 +3,7 @@ A neural network with Tensorflow in python that can classify images of flowers i
 #
 This is a program that can classify images of different flowers into one of the following catrgories:
 #### Daisy, Dandelion, Rose, Sunflower, Tulip
-The model is based on the MobileNetV2 model from Tensorflow (but with extra layers added), and can classify images with ~70% accuracy.
+The model is based on the MobileNetV2 model from Tensorflow (but with extra layers added), and can classify images with ~75% accuracy.
 ## Files
 The file "image_processing.py" is used to augment, resize and in other ways process images. "model.py" is used to train model
 and to load and split data. You can also run this script to look at some predictions the model makes on the test data.
